@@ -1,0 +1,10 @@
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\bin\Debug\Server.exe.config
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\bin\Debug\Server.exe
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\bin\Debug\Server.pdb
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\bin\Debug\FileSerialization.dll
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\bin\Debug\FileSerialization.pdb
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\obj\Debug\Server.exe
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\Server\obj\Debug\Server.pdb

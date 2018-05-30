@@ -1,0 +1,6 @@
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileSerialization\bin\Debug\FileSerialization.dll
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileSerialization\bin\Debug\FileSerialization.pdb
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileSerialization\obj\Debug\FileSerialization.csprojResolveAssemblyReference.cache
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileSerialization\obj\Debug\FileSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileSerialization\obj\Debug\FileSerialization.dll
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileSerialization\obj\Debug\FileSerialization.pdb

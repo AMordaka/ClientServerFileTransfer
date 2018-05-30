@@ -1,0 +1,13 @@
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csprojResolveAssemblyReference.cache
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\obj\Debug\FileTransfer.Form1.resources
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\obj\Debug\FileTransfer.Properties.Resources.resources
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csproj.GenerateResource.cache
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe.config
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\bin\Debug\FileTransfer.pdb
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\obj\Debug\FileTransfer.exe
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\bin\Debug\FileSerialization.dll
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\bin\Debug\FileSerialization.pdb
+C:\Users\Arek\Desktop\FileTransfer\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csproj.CopyComplete
